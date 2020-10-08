@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Tu, Nguyen Van Tu. And this is my Github for jobs
 
 <!--
 **tunv1998/tunv1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Hi](http://gph.is/1Qy8Pvp)
