@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Tu, Nguyen Van Tu. 
+And this is my professional profile
+---
 
 <!--
 **tunv1998/tunv1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
