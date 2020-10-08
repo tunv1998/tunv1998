@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tu, Nguyen Van Tu. 
-And this is my professional profile
+And this is my Github profile
 ---
-
+🌱 I’m currently learning **Laravel** and **NodeJs**
 <!--
 **tunv1998/tunv1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![Hi](https://media.giphy.com/media/xTk9ZY0C9ZWM2NgmCA/source.gif)
+![Currently I'm looking for a rest](https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif)
