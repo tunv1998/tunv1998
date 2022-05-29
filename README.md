@@ -10,7 +10,7 @@ and this is the place where I put my amazing things.
 
 [![Gmail](https://img.shields.io/badge/nguyenvantu191298-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvantu191298@gmail.com)
 [![Linkedin](https://img.shields.io/badge/tunv98-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tunv98//)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tunv1998)
+[![Dev.to blog](https://img.shields.io/badge/tunv1998-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tunv1998)
 ![](https://komarev.com/ghpvc/?username=tun1998&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 **I code with** 👇
